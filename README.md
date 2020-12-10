@@ -57,7 +57,7 @@ Other tests for Appointment Booking:
 - Try to enter invalid data in the textboxes.
 - Try to book all available time slots using the same user(idiot-proof)
 - Make sure all the spellings are GUI are correct.
-- Test can also be done via the API
+- Test can also can be done via the API
 	
 CI/CD intergration
 This test can be intergrated with a CI/CD tool such as Jenkins. To manage this steps:
