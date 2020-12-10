@@ -1,5 +1,6 @@
 # Knock
 Assessment for Knock
+
 Introduction
 Simple automated test to verify the schedule appointment functionality
 
@@ -38,9 +39,10 @@ Testcase assumptions:
 
 Running the test:
 	Commmad line:
-	cd into the KnockCRM project folder and run the following maven commands
-	mvn clean
-	mvn test
+	cd into the KnockCRM project folder
+	Run the following commands:
+	> mvn clean
+	> mvn test
 	
 	From IDE:
 	Run As > TestNG Test
