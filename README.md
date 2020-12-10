@@ -67,6 +67,7 @@ Cross platform Testing can be done with:
 - LambdaTest
 
 CI/CD intergration
+
 This test can be intergrated with a CI/CD tool such as Jenkins. To manage this steps:
 - Pulling code from version control and executing a build
 - Automated start up or tear down test infrastructure.
