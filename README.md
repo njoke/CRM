@@ -36,6 +36,7 @@ Testcase:
  - Validated booking is confirmed.
 Testcase assumptions:
  - Appointment is 5 days from today
+ - Test case is running on chrome only
 
 Running the test:
 
@@ -58,7 +59,12 @@ Other tests for Appointment Booking:
 - Try to book all available time slots using the same user(idiot-proof)
 - Make sure all the spellings are GUI are correct.
 - Test can also can be done via the API
-	
+
+Cross platform Testing can be done with:
+- TestNG
+- Selenium Grid
+- Sauce Labs
+- LambdaTest
 CI/CD intergration
 This test can be intergrated with a CI/CD tool such as Jenkins. To manage this steps:
 - Pulling code from version control and executing a build
