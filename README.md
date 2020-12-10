@@ -25,8 +25,8 @@ Setup:
 - Navigate to src/test/java.testcases
 - Open the testcase scheduletourTest
 - Replace the following with your local paths:
-	Chrome webdriver path : <YOURPATH\\drivers\\chromedriver.exe
-	Chrome browser path : <YOURPATH\\drivers\\chrome.exe
+	- Chrome webdriver path : <YOURPATH\\drivers\\chromedriver.exe
+	- Chrome browser path : <YOURPATH\\drivers\\chrome.exe
 - Save the file
 Testcase:
  - Click the Schedule a Tour button
@@ -38,12 +38,13 @@ Testcase assumptions:
  - Appointment is 5 days from today
 
 Running the test:
-Commmad line:
-	> mvn clean
-	> mvn test
+
+From command line:
+* >mvn clean
+* >mnv test
 	
-	From IDE:
-	Run As > TestNG Test
+From IDE:
+Run As > TestNG Test
 	
 Other tests for Appointment Booking:
 - Cancel appointment
