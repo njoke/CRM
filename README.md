@@ -1,7 +1,7 @@
 # Knock
 Assessment for Knock
 
-Introduction
+Introduction:
 Simple automated test to verify the schedule appointment functionality
 
 Prerequisite:
@@ -39,8 +39,6 @@ Testcase assumptions:
 
 Running the test:
 	Commmad line:
-	cd into the KnockCRM project folder
-	Run the following commands:
 	> mvn clean
 	> mvn test
 	
