@@ -38,7 +38,7 @@ Testcase assumptions:
  - Appointment is 5 days from today
 
 Running the test:
-	Commmad line:
+Commmad line:
 	> mvn clean
 	> mvn test
 	
