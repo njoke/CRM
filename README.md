@@ -11,9 +11,6 @@ Prerequisite:
 - Chrome browser
 - Chomedriver on the local machine. 
 
-Clone the following github repository:
-- njoke/Knock
-
 Test Framework is implemented with:
 - Java
 - Selenium
