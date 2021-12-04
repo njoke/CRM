@@ -1,5 +1,5 @@
-# Knock
-Assessment for Knock
+# CRM
+CRM
 
 Introduction:
 Simple automated test to verify the schedule appointment functionality
@@ -75,4 +75,3 @@ This test can be intergrated with a CI/CD tool such as Jenkins. To manage this s
 - Executing continuous tests and rollback environments if tests fail.
 - Providing log data and alerts on the state of testing.
 
-If you have any issues or questions, please send me an email at njoken.qa@gmail.com
