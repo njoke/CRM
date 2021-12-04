@@ -1,5 +1,5 @@
 # CRM
-CRM
+CRM Testing
 
 Introduction:
 Simple automated test to verify the schedule appointment functionality
