@@ -15,7 +15,7 @@ Test Framework is implemented with:
 - Java
 - Selenium
 - Test NG
-- Maven
+- Maven.
 
 Setup:
 - Open the Maven project
